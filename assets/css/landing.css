@@ -104,7 +104,7 @@ section {
   font-size: 1.4em; }
 
 .profile {
-  background: url("public/images/profile.jpg");
+  background: url("../images/profile.jpg");
   height: 10em;
   width: 10em;
   box-shadow: 0em 0em 1em 0em black;
